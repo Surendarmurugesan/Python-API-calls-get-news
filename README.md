@@ -1,1 +1,1 @@
-# Python-API-calls-get-news
+# Python API calls to get Daliy news via Email.
